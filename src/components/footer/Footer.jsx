@@ -2,7 +2,7 @@ import "./footer.css";
 
 export default function Footer() {
   const date = new Date();
-  const name = "Zaiem";
+  const name = "nadiashabeer";
 
   let currYear = date.getFullYear();
 
@@ -19,7 +19,7 @@ export default function Footer() {
           </a>
         </li>
         <li>
-          <a href="https://github.com/zaiem2001" target="_blank">
+          <a href="https://github.com/nadiashabeer" target="_blank">
             <i class="fab fa-github"></i>
           </a>
         </li>

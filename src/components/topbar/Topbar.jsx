@@ -13,7 +13,7 @@ export default function Topbar() {
       <div className="wrapper">
         <div className="left">
           <a className="logo" href="#intro">
-            Zaiem
+            Nadia
           </a>
         </div>
         <div className="right">
